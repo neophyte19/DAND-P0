@@ -15,4 +15,10 @@ Your goal will be to create a visualization and prepare a write up describing th
 * Create a line chart that compares your city’s temperatures with the global temperatures. Make sure to plot the moving average rather than the yearly averages in order to smooth out the lines, making trends more observable (the last concept in the previous lesson goes over how to do this in a spreadsheet).
 * Make observations about the similarities and differences between the world averages and your city’s averages, as well as overall trends. Here are some questions to get you started.
 
+### Files
+
+* Explore_weather_trends.csv contains raw exported data
+* Explore_weather_trends.xlsx contains all the work with charts and calculations
+* Exploring Weather Trends - Project Report.pdf - final report
+* SQLS.sql - sql used to export the data
 
